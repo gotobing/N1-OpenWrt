@@ -7,7 +7,7 @@
 5、ipv6完整支持！<br>
 6、为了拥有自己的定制固件，不停修改测试等待了N多个的编译周期，如果对你有帮助，欢迎fork！<br>
 7、集成晶晨宝盒，可以直接在线升级openwrt版本。默认配置的是我的项目地址！<br>
-8、内核我测试用的5.15.148很稳定，不建议升级。有部分用户反馈5.15.160以上的内核科学有问题！<br>
+8、内核升级为5.15.180[内核地址](https://github.com/breakingbadboy/OpenWrt/releases/)<br>
 # 包含的插件目录如下:<br>
 ### luci <br>
 CONFIG_PACKAGE_luci-app-amlogic=y <br>
