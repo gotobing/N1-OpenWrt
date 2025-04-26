@@ -45,3 +45,13 @@ config interface 'usbv6'
 	option ifname 'eth1'
 	option reqaddress 'try'
 	option reqprefix 'auto'
+
+config interface 'phonev4'
+	option proto 'dhcp'
+	option ifname 'usb0'
+
+config interface 'phonev6'
+	option proto 'dhcpv6'
+	option ifname 'usb0'
+	option reqaddress 'try'
+	option reqprefix 'auto'
