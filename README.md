@@ -1,6 +1,6 @@
 # 项目简介
 
-本固件适配斐讯 N1 主路由模式，追求精简和纯净。以下是本项目的主要特点：
+本固件适配斐讯 N1 主路由模式，追求精简和纯净。仅供自用! 以下是本项目的主要特点：
 
 ## 特点
 
@@ -34,7 +34,6 @@
 
 - **luci-app-amlogic**  
 - **luci-app-dockerman**  
-- **luci-app-passwall**  
 - **luci-app-samba4**  
 - **luci-app-vlmcsd**  
 - **luci-app-uhttpd**  
@@ -61,8 +60,6 @@
 ## 截图
 
 ![360截图20241105215446408](https://github.com/user-attachments/assets/5b6381d2-52d7-41d2-af12-a7ea0a6d2598)  
-![360截图20241105215513569](https://github.com/user-attachments/assets/36f9febd-51bb-41d8-b119-9f9c78967e0a)
-
 ---
 
 # 致谢
