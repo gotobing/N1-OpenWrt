@@ -59,7 +59,8 @@
 
 ## 截图
 
-![360截图20241105215446408](https://github.com/user-attachments/assets/5b6381d2-52d7-41d2-af12-a7ea0a6d2598)  
+![主页](/images/chrome_ov39v3vv6T.png)
+![网络接口](/images/IDVMY33fsO.png)
 ---
 
 # 致谢
