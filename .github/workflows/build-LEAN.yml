@@ -175,7 +175,7 @@ jobs:
           账户: root
           密码: password
           * 说明
-          使用usb共享网路 手动绑定下usb,eth1到wan口
+          使用usb共享网路 手动绑定下usb0,eth1到wan口
           
     - name: Delete old releases
       uses: dev-drprasad/delete-older-releases@master
