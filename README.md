@@ -44,6 +44,7 @@
 - **luci-app-mosdns**  
 - **luci-app-alist**  
 - **luci-app-ttyd**
+- **luci-app-usb-printer**
 
 ### 主题插件
 
