@@ -30,7 +30,7 @@
 
 7. **内核升级：**
 
-    - 内核版本更新至 **5.15.182**，详细内核信息请访问：[内核地址](https://github.com/breakingbadboy/OpenWrt/releases/)
+    - 内核版本更新至 **5.15.185**，详细内核信息请访问：[内核地址](https://github.com/breakingbadboy/OpenWrt/releases/)
 
 8. **USB 网络共享：**
     - 支持通过 USB 共享手机网络。对于**ios 设备**也是支持的,在 ios18,ios15 上测试通过 iPhone 在开启个人热点时,选择仅 USB 同时 设置->密码->配件 打开(关闭以避免配件在 iPhone 锁定超过 1 小时后与其连接)
