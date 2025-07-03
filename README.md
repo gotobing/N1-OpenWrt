@@ -49,7 +49,7 @@
 -   **luci-app-cifs-mount**
 -   **luci-app-wol**
 -   **luci-app-mosdns**
--   **luci-app-alist**
+-   **luci-app-openlist**
 -   **luci-app-ttyd**
 -   **luci-app-usb-printer**
 
